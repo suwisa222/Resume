@@ -1,0 +1,2 @@
+data-lightbox="Image Album"  - Add a data-lightbox attribute to any image link to enable Lightbox. For the value of the attribute, use a unique name for each image. 
+data-title="My caption"      - Add a data-title attribute if you want to show a caption.
